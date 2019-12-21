@@ -1,0 +1,22 @@
+{
+  "name": "AXS Chat",
+  "short_name": "AXS Chat",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#dc3023",
+  "theme_color": "#dc3023",
+  "gcm_sender_id": "103953800507",
+  "icons": [
+  {
+    "src": "https://firebasestorage.googleapis.com/v0/b/axs-chat.appspot.com/o/AXS%20192.png?alt=media&token=a229c987-809e-4585-8d44-74edb680cde8",
+    "type": "image/png",
+    "sizes": "192x192"
+  },
+  {
+    "src": "https://firebasestorage.googleapis.com/v0/b/axs-chat.appspot.com/o/AXS%20512.png?alt=media&token=3b209818-98c1-4627-9ce0-ee0b026e4759",
+    "type": "image/png",
+    "sizes": "512x512"
+  }
+]
+}
